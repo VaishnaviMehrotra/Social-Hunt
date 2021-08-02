@@ -1,0 +1,30 @@
+.postImg {
+    margin-top: 20px;
+    width: 100%;
+    max-height: 500px;
+    object-fit: contain;
+}
+.searchUser{
+    padding-top: 10px;
+    padding-left: 40%;
+}
+.searchUser:hover{
+    background-color: white;
+}
+.diffUser{
+    margin-left: 10px;
+}
+.users{
+    position: fixed;
+    width: 100%;
+    background:whitesmoke;
+    top: 64px;
+    z-index: 1;
+}
+button{
+    outline: none !important;
+}
+.userLine{
+    margin: 0;
+    padding:0,
+}

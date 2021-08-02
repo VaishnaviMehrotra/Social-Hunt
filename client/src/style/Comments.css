@@ -1,0 +1,18 @@
+.reviewCard{
+    padding: 16px;
+    margin-top: 8px;
+    border: 1px solid #ccc;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+.comment{
+    font-weight: 500;
+    color: rgb(52, 144, 140);
+}
+@media only screen and (max-width: 600px) {
+    .reviewCard {
+        margin-left: 2%;
+        margin-right: 2%;
+    }
+  }
